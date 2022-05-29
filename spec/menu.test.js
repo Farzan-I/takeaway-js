@@ -1,4 +1,4 @@
-const Menu = require('../lib/menu')
+const Menu = require('../lib/menu');
 
 describe('Menu' , () => {
   describe('viewDishes', () => {
